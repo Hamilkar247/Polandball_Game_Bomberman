@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Polandball_Game_Bomberman:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Polandball_Game_Bomberman_jar</output-path>
+    <root id="archive" name="Polandball_Game_Bomberman.jar">
+      <element id="module-output" name="Polandball_Game_Bomberman" />
+    </root>
+  </artifact>
+</component>

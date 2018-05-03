@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<class>
+ <PolandBall>src//main//resources//GameGraphics//PolandBall.png</PolandBall>
+ <NaziBall>src//main//resources//GameGraphics//NaziBall.png</NaziBall>
+ <TurkeyBall>src//main//resources//GameGraphics//TurkeyBall.png</TurkeyBall>
+ <SovietBall>src//main//resources//GameGraphics//SovietBall.png</SovietBall>
+ <HussarBall_Left>src//main//resources//GameGraphics//Hussarball_left.png</HussarBall_Left>
+ <HussarBall_Right>src//main//resources//GameGraphics//Hussarball_right.png</HussarBall_Right>
+ <Skrzynka>src//main//resources//GameGraphics//Skrzynka.png</Skrzynka>
+ <Beton>src//main//resources//GameGraphics//Beton.png</Beton>
+ <Door>src//main//resources//GameGraphics//Door.png</Door>
+ <Key>src//main//resources//GameGraphics//Key.png</Key>
+ <WingsOfHussars>src//main//resources//GameGraphics//Winge_of_hussars.png</WingsOfHussars>
+ <ChestOfGold>src//main//resources//GameGraphics//ChestOfGold.png</ChestOfGold>
+ <BoxOfBombs>src//main//resources//GameGraphics//box_of_bombs.png</BoxOfBombs>
+ <GunLaser>src//main//resources//GameGraphics//Gun_laser.png</GunLaser>
+ <Heart>src//main//resources//GameGraphics//Heart.png</Heart>
+ <Normal_bomb>src//main//resources//GameGraphics//Normal_bomb.gif</Normal_bomb>
+ <Remote_bomb>src//main//resources//GameGraphics//Remote_bomb.png</Remote_bomb>
+ <Explosion>src//main//resources//GameGraphics//Explosion-animation.gif</Explosion>
+ <Background>src//main//resources//GameGraphics//Commonwealth-Tangle.png</Background>
+ <BackgroundForSetconnection>src//main//resources//GameGraphics//polandstrong.png</BackgroundForSetconnection>
+</class>
+
+
